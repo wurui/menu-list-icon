@@ -17,26 +17,41 @@
     <data>
         <ui-entry>
             <i>
-                <title>问题反馈</title>
+                <title>我的收藏</title>
                 <href></href>
                 <subtitle></subtitle>
-                <icon></icon>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29u05hrq8Tjpc7jtzkR2ry9A78g-1000.png</icon>
                 <bg></bg>
             </i>
             <i>
-                <title>商务合作</title>
+                <title>我的发布</title>
                 <href></href>
                 <subtitle></subtitle>
-                <icon></icon>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29u05hte7Tjpc7jsblRm3akA6vb-1000.png</icon>
                 <bg></bg>
             </i>
             <i>
-                <title>关于我们</title>
+                <title>我的订单</title>
                 <href></href>
                 <subtitle></subtitle>
-                <icon></icon>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29u05hswmTjpc7jst6Rp364A66l-1000.png</icon>
                 <bg></bg>
             </i>
+            <i>
+                <title>我的卡券</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29u05hu22Tjpc7jrnqRgrpzA6xs-1000.png</icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>车型收藏</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29u05hr9dTjpc7jugfRz8hfA6hy-1000.png</icon>
+                <bg></bg>
+            </i>
+
         </ui-entry>
     </data>
 </root>
